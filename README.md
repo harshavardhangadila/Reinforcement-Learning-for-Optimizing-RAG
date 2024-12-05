@@ -54,7 +54,7 @@ Enhanced User Experience: Improved accuracy and efficient handling of multi-turn
 
 Paper Link: [Arxiv](https://arxiv.org/abs/2401.06800)
 
-Slide Share: [Optimizing RAG with Reinforcement Learning](https://www.youtube.com/playlist?list=PLmMNfv-hv1hY4CZqAhqNQkkSQrRFWfRd5)
+Slide Share: [Optimizing RAG with Reinforcement Learning](https://www.slideshare.net/slideshow/retrieval-augmented-generation-using-reinforcement-learning-pptx/273848228)
 
 Medium Article: [Optimizing Retrieval-Augmented Generation with Reinforcement Learning](https://medium.com/@hvr2026/optimizing-retrieval-augmented-generation-with-reinforcement-learning-fc33a11f9ed2)
 
