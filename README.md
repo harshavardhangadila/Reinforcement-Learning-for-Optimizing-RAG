@@ -58,6 +58,5 @@ Slide Share: [Optimizing RAG with Reinforcement Learning](https://www.slideshare
 
 Medium Article: [Optimizing Retrieval-Augmented Generation with Reinforcement Learning](https://medium.com/@hvr2026/optimizing-retrieval-augmented-generation-with-reinforcement-learning-fc33a11f9ed2)
 
-Youtube: [Optimizing RAG with Reinforcement Learning](https://www.youtube.com/playlist?list=PLmMNfv-hv1hY4CZqAhqNQkkSQrRFWfRd5)
 
 
